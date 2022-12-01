@@ -118,7 +118,7 @@ class _RegisterWidgetState extends State<RegisterWidget> {
                               setState(() =>
                                   FFAppState().deviceid = 'DEVICE ID 1111');
                             },
-                            text: 'Create Account',
+                            text: 'Register',
                             options: FFButtonOptions(
                               width: 200,
                               height: 50,
